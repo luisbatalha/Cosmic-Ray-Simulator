@@ -47,7 +47,7 @@ Screenshots:
 
 ![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr1.png "Screenshot GUI 1")
 
-![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr2.png "Screenshot GUI 2")
+![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr3.png "Screenshot GUI 2")
 
 
 
