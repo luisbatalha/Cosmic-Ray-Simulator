@@ -42,8 +42,10 @@ Classes Framework:
 `LMCsimGui` - Generates the Graphical user interface
 
 
+Screenshots:
+------------
 
-
+![alt text](/https://github.com/luisbatalha/Cosmic-Ray-Simulator/blob/master/screenshots/scr0.png "Screenshot")
 
 
 
