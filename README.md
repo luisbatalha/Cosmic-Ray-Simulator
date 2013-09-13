@@ -2,6 +2,7 @@ Cosmic-Ray-Simulator
 ====================
 
 This code simulates an experimental setup that aims to measure the lifetime of the muon.
+This project was developed using C++ and CERN's ROOT Framework.
 
 
 This cosmic Ray physics simulator:
@@ -44,5 +45,5 @@ Classes Framework:
 
 
 
-This is part of a Cosmic Ray course of the IST performed in collaboration of professor F. Barao.
+This project was developed in the framework of the Cosmic Ray Laboratory course of the IST in collaboration of professor F. Barao.
 
