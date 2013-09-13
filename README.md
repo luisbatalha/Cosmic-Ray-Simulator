@@ -45,5 +45,9 @@ Classes Framework:
 
 
 
-This project was developed in the framework of the Cosmic Ray Laboratory course of the IST in collaboration of professor F. Barao.
+
+
+
+
+_Special thanks to F. Barao for making this work possible._
 
