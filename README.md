@@ -23,13 +23,21 @@ This cosmic Ray physics simulator:
 Classes Framework:
 ------------------
 `LMCParticle` - Deals with the definition of the properties of the propagated particle. Each element of the class is a particle.
+
 `LMCstep` - Stores all the relevant data after a step is performed., such as energy losses or particles created. Each element is a step.
+
 `LMCGeomN` - The experimental detector setup is defined on this class, by calling the different detector elements defined (LMCscintillator, LMCCerenkovTank)
+
 `LMCPropagator` - Deals with the propagation of the particle. It must implement all the interactions with the detector geometry
+
 `LMCfunctor` - Functions repository
+
 `LMCMaterials` - Contains the materials to be used in the definition of the detector
+
 `LMCconstants` - Class to store fundamental constants
+
 `LMCstack` - Class that creates a stack to store the list of particles to be propagated and those created during propagation
+
 `LMCsimGui` - Generates the Graphical user interface
 
 
@@ -37,3 +45,4 @@ Classes Framework:
 
 
 This is part of a Cosmic Ray course of the IST performed in collaboration of professor F. Barao.
+
