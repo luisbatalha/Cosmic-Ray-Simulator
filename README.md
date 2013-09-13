@@ -45,8 +45,9 @@ Classes Framework:
 Screenshots:
 ------------
 
-![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr0.png "Screenshot")
+![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr1.png "Screenshot GUI 1")
 
+![alt text](https://raw.github.com/luisbatalha/Cosmic-Ray-Simulator/master/screenshots/scr2.png "Screenshot GUI 2")
 
 
 
