@@ -18,5 +18,3 @@ This cosmic Ray physics simulator:
   
   6. Make a scalable and modular simulator that can be easily integrable with other simulators, using the Classes framework of C++ and ROOT
   
-  
-  
